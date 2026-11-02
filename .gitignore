@@ -1,0 +1,11 @@
+# Radni podaci gradova ne idu u repozitorij (kanon je na SharePointu)
+gradovi/*
+!gradovi/.gitkeep
+*.xlsx
+*.xlsm
+*.pdf
+~$*
+.DS_Store
+__pycache__/
+dist/
+!.claude/skills/**/assets/*.docx
