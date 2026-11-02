@@ -102,13 +102,13 @@ pip install geopandas shapely networkx pyogrio
 **Varijanta A — Git (preporučeno, lako ažuriranje):**
 
 ```bash
-git clone https://github.com/<organizacija>/pgh-claude-toolkit.git
+git clone https://github.com/ivanprzulj-max/Planovi-claude-toolkit.git
 ```
 
 Ažuriranje kasnije: u mapi repozitorija `git pull`.
 
 **Varijanta B — bez Gita:** na GitHub stranici repozitorija *Code → Download ZIP*, raspakirati
-u npr. `C:\Users\<ime>\pgh-claude-toolkit`.
+u npr. `C:\Users\<ime>\Planovi-claude-toolkit`.
 
 # Kako učitati skillove i agente
 

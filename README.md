@@ -9,8 +9,8 @@ Nastalo na Planu G&H Grada Karlovca.
 
 ## Brzi početak (Claude Code)
 ```bash
-git clone <URL ovog repozitorija>
-cd pgh-claude-toolkit
+git clone https://github.com/ivanprzulj-max/Planovi-claude-toolkit.git
+cd Planovi-claude-toolkit
 claude
 ```
 U Claude Codeu: `/agents` → mora prikazati sedam `pgh-*` agenata. Detalji i alternative (Claude Desktop,
